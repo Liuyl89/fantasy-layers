@@ -1,0 +1,11 @@
+html, body {
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+  html, body {
+    height: 100vh;
+    overflow: hidden;
+  }
+}
